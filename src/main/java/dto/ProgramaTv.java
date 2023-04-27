@@ -1,4 +1,4 @@
-package inc.tanuki.javacrud;
+package dto;
 
 import java.util.Objects;
 
